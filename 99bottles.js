@@ -1,4 +1,4 @@
-// 99 bottles
+// My solution for 99 bottles
 for (var beer = 99; beer >= 1; beer--) {
   if (beer === 1) {
     var bottles = 'bottle';
